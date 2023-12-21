@@ -1,0 +1,10 @@
+{
+  "name": "userop-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "userop": "^0.3.6"
+  }
+}
